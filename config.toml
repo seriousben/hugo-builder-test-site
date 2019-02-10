@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://seriousben.com/hugo-builder-test-site/"
 title = "Whiteplain"
 # themesDir = "../../"
 theme = "whiteplain"
