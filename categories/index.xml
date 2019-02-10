@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Whiteplain</title>
-    <link>https://example.com/categories/</link>
+    <link>https://seriousben.com/hugo-builder-test-site/categories/</link>
     <description>Recent content in Categories on Whiteplain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seriousben.com/hugo-builder-test-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://example.com/categories/development/</link>
+      <link>https://seriousben.com/hugo-builder-test-site/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/development/</guid>
+      <guid>https://seriousben.com/hugo-builder-test-site/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://example.com/categories/golang/</link>
+      <link>https://seriousben.com/hugo-builder-test-site/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/golang/</guid>
+      <guid>https://seriousben.com/hugo-builder-test-site/categories/golang/</guid>
       <description></description>
     </item>
     

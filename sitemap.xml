@@ -3,106 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/goisforlovers/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/hugoisforlovers/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/archives/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/development/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/golang/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seriousben.com/hugo-builder-test-site/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://seriousben.com/hugo-builder-test-site/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whiteplain</title>
-    <link>https://example.com/archives/</link>
+    <link>https://seriousben.com/hugo-builder-test-site/archives/</link>
     <description>Recent content on Whiteplain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright 2017 Foo Bar</copyright>
     
-	<atom:link href="https://example.com/archives/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seriousben.com/hugo-builder-test-site/archives/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
