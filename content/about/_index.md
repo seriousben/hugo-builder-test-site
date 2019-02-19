@@ -18,3 +18,5 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 First edit
 
 Second edit
+
+Third edit
