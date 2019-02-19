@@ -16,3 +16,5 @@ It makes use of a variety of open source projects including:
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 First edit
+
+Second edit
